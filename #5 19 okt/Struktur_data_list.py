@@ -7,10 +7,6 @@
 # buah[1] = ""
 # print(buah)
 
-'''
-Challange
-'''
-
 buah = ["Apel", "Pisang", "Mangga"]
 #penambahan ke list, lebih dari satu :
 buah.extend(["Sirsak", "Kelapa", "Markisa"])
